@@ -6,7 +6,7 @@
 
 <img src="www/shouye.jpg" align="center" height="400" width="800"/>
 
-## How to use
+## How to use?
 The detailed operation about **<font size='5'> pseudoQC </font>** can be found in [pseudoQC.Supplementary.pdf](https://github.com/qade544/pseudoQC/blob/master/pseudoQC.Supplementary.pdf) file.
 
 ## Contact
