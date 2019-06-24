@@ -6,6 +6,9 @@
 
 <img src="www/shouye.jpg" align="center" height="400" width="800"/>
 
+## How to use
+The detailed operation about **<font size='5'> pseudoQC </font>** can be found in [pseudoQC.Supplementary.pdf]() file.
+
 ## Contact
 You could push an issue on this github. And optionally, please feel free to sent me an e-mail if you have any question or find a bug about this tool. Thank you^_^
 Email: wssdandan2009@outlook.com
