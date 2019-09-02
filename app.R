@@ -395,7 +395,7 @@ server<-shinyServer(function(input, output, session){
   peaksdataout<-reactive({
     files <- input$file1
     if (is.null(files)){
-      dataread<-read.csv("CXL-pos-dingliang.csv",stringsAsFactors = F,row.names = 1,check.names = F)
+      dataread<-read.csv("Metabolites_Exampledata.csv",stringsAsFactors = F,row.names = 1,check.names = F)
     }else{
       if (input$fileType_Input == "1"){
         dataread<-read.xlsx(files$datapath,rowNames=input$firstcol,
@@ -424,7 +424,7 @@ server<-shinyServer(function(input, output, session){
   samplesdataout<-reactive({
     files <- input$mchuanshaodxyibanfile1_fenzu
     if (is.null(files)){
-      dataread<-read.csv("CXL_sampleinfo.csv",header = T,stringsAsFactors = F,check.names = F)
+      dataread<-read.csv("Sampleinfo.csv",header = T,stringsAsFactors = F,check.names = F)
     }else{
       if (input$mchuanshaodxyibanfileType_Input_fenzu == "1"){
         dataread<-read.xlsx(files$datapath,rowNames=input$mchuanshaodxyibanfirstcol_fenzu,
