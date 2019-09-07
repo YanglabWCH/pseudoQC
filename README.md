@@ -3,6 +3,7 @@
 
 ## Citation
 If you use this software to analyze your data, please cite our paper like this:
+
 Wang, Shisheng, and Hao Yang. "Pseudoqc: A Regression‐Based Simulation Software for Correction and Normalization of Complex Metabolomics and Proteomics Datasets." Proteomics (2019): 1900264. ([DOI: 10.1002/pmic.201900264](https://doi.org/10.1002/pmic.201900264)).
 
 ## Brief Description
