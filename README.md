@@ -1,6 +1,10 @@
 # pseudoQC<img src="www/pseudoQC_original.jpg" align="right" height="200" width="200"/>
 #### pseudoQC: A Regression-Based Simulation Software for Correction and Normalization of Complex Metabolomics and Proteomics Datasets
 
+## Citation
+If you use this software to analyze your data, please cite our paper like this:
+Wang, Shisheng, and Hao Yang. "Pseudoqc: A Regression‐Based Simulation Software for Correction and Normalization of Complex Metabolomics and Proteomics Datasets." Proteomics (2019): 1900264. ([DOI: 10.1002/pmic.201900264](https://doi.org/10.1002/pmic.201900264)).
+
 ## Brief Description
 **<font size='5'> pseudoQC </font>** is a powerful and interactive web-based software to simulate QC sample data for actual metabolomics and proteomics datasets using four different machine learning–based regression methods. It is developed with [R](https://www.r-project.org/) and the software can also be found here: [https://www.omicsolution.org/wukong/pseudoQC/](https://www.omicsolution.org/wukong/pseudoQC/). Open this link and then you can start your own analysis:
 
